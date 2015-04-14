@@ -1,6 +1,6 @@
 FROM dockerfile/java:latest
 
-MAINTAINER Abhinav Pobbati <apobbati@codeblock.io>
+MAINTAINER Guido Schmutz <guido.schmutz@trivadis.com>
 
 WORKDIR /opt/titan-0.5.4-hadoop2
 

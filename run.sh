@@ -57,5 +57,5 @@ wait_for_startup Cassandra \
 	return 1
 }
 
-$BIN/rexster.sh -s -c ../$OUT
+$BIN/rexster.sh -s -c /opt/titan-0.5.4-hadoop2/$OUT
 

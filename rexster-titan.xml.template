@@ -97,6 +97,7 @@
                 <storage.backend>cassandra</storage.backend> 
                 <storage.hostname>_CASSANDRA_HOSTNAME_</storage.hostname>
                 <storage.port>_CASSANDRA_TCP_PORT_</storage.port> <!-- Cassandra Thrift Port -->
+                <storage.keyspace>_CASSANDRA_KEYSPACE_</storage.keyspace> <!-- Cassandra Thrift Port -->
                 <cache.db-cache>true</cache.db-cache>
                 <cache.db-cache-clean-wait>20</cache.db-cache-clean-wait>
                 <storage.index.search.backend>elasticsearch</storage.index.search.backend>

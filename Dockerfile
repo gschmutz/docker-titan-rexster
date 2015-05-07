@@ -1,4 +1,4 @@
-FROM dockerfile/java:latest
+FROM java:8-jre
 
 MAINTAINER Guido Schmutz <guido.schmutz@trivadis.com>
 

@@ -102,8 +102,7 @@
                 <cache.db-cache-clean-wait>20</cache.db-cache-clean-wait>
                 <index.search.backend>elasticsearch</index.search.backend>
                 <index.search.hostname>_ELASTICSEARCH_HOSTNAME_</index.search.hostname>
-                <index.search.port>_ELASTICSEARCH_TCP_PORT_</index.search.port> <!-- ES REST Port -->
-                <index.search.client-only>true</index.search.client-only>
+                <index.search.elasticsearch.client-only>true</index.search.elasticsearch.client-only>
             </properties>
             <extensions>
                 <allows>
